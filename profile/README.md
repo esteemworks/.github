@@ -28,4 +28,4 @@
   </tr>
 </table>
 
-<p align="center"><sub>Two apps so far, more to come. Free and open source under the MIT license.</sub></p>
+<p align="center"><sub>Two apps so far, more to come. Their source code is open under the MIT license; the shared library inside them is free to use with the apps, but not open source.</sub></p>
